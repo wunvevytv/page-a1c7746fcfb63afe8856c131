@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e3c9608ec03832db6d4d24d9",
+  "owner": "wunvevytv",
+  "repo": "page-a1c7746fcfb63afe8856c131",
+  "title": "QTY",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a1c7746fcfb63afe8856c131",
+      "a": "QTY",
+      "b": "2027最新官网",
+      "entity": "QTY",
+      "brand": "QTY",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9aedc33e2e43ef665952e2c4ad645da37969887e078ff5767bc4011973c5456c",
+      "content": {
+        "primary_entity": "QTY",
+        "keyword1": "QTY",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，按订阅信息完成导入与配置。",
+          "AI_CLIENTS_TITLE": "客户端",
+          "AI_CLOSING_TEXT": "选好套餐并导入订阅，让跨区访问更顺畅。",
+          "AI_CLOSING_TITLE": "开启稳定连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，覆盖每月 100GB 至 1000GB 流量与 3 至 20 台设备支持，适合个人日常访问、跨区流媒体与多人协作场景。",
+          "AI_FEATURES_INTRO": "围绕流量需求、设备数量与订阅周期，快速找到匹配的加速方案。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量与 3 台设备，适合轻量浏览与移动端使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备并带 IPLC 专线，兼顾流媒体与游戏。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量与 20 台设备，支持企业定制路由与专属管理。",
+          "AI_FEATURE_TITLE_1": "流量档位清晰",
+          "AI_FEATURE_TITLE_2": "设备匹配明确",
+          "AI_FEATURE_TITLE_3": "周期灵活可选",
+          "AI_GUIDE_INTRO": "按需求选套餐、确认设备数量、再按客户端文档导入订阅即可使用。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "QTY 面向跨区访问场景，提供多档订阅与设备支持，合理规划流量与节点，满足浏览、流媒体与协作需求。",
+          "AI_HERO_SUBTITLE": "按需选套餐，轻松连",
+          "AI_HIGHLIGHT_1": "多档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "订阅导入流程清晰易上手",
+          "AI_HIGHLIGHT_3": "支持年付并覆盖多种客户端",
+          "AI_PLANS_INTRO": "对比三档套餐的流量、设备数与月付年付价格，选择匹配日常用量的一档。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与同时在线设备数，在基础版、旗舰版与团队版中选择。",
+          "AI_STEP_TEXT_2": "确认所用设备系统与客户端版本，核对套餐支持的设备数量。",
+          "AI_STEP_TEXT_3": "获取订阅信息后，按对应客户端文档导入并完成节点配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "QTY 海外加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "QTY 加速器支持哪些设备使用？",
+          "AI_FAQ_ANSWER_1": "电脑和手机端均有对应客户端可选，安装后导入订阅信息使用。不同系统的客户端版本存在差异，建议按设备系统选择适配客户端，并以客户端当前说明确认兼容范围。",
+          "AI_FAQ_QUESTION_2": "三个套餐可以同时在线几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。如果需要在手机、平板、电脑之间切换使用，可以按常用设备总数选择对应档位。",
+          "AI_FAQ_QUESTION_3": "月付和年付价格差多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。年付相当于按月十个月左右折算，长期使用的用户可优先考虑年付。",
+          "AI_FAQ_QUESTION_4": "旗舰版的 IPLC 专线适合哪些场景？",
+          "AI_FAQ_ANSWER_4": "IPLC 专线针对游戏加速做了线路优化，延迟表现相对普通线路更稳定。常玩联机游戏或对实时性要求较高的用户，可在旗舰版中体验专线节点。",
+          "AI_FAQ_QUESTION_5": "订阅到期后如何续费或切换套餐？",
+          "AI_FAQ_ANSWER_5": "在订阅周期结束前，可按当前使用情况选择同档续费或升级到更高档位。调整套餐后重新导入新的订阅信息即可，设备数量与流量额度会随新套餐生效。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cls66.cn",
+    "host": "cls66.cn"
+  },
+  "file_hashes": {
+    "index.html": "60d3ec31cd6e9692a87d05708eb440d99026a2a2d6ffee5de39775750fddf22f",
+    "sitemap.xml": "2dcfdb5f41a37cf8a5b05ead3fd599ddd867d941494f8b4586be1bd9a6980c04",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9fc421a5dc80783ec6a4fa082f0c63459eca1b9cce750d5c3b498527a2f6e699",
+    "robots.txt": "e4d0dabf9b92f20f5680c37a5c9d2ae43870b3c1c25ba02bbeda799d0d03c9b3",
+    "69c20ff1b7fb3f3f510f711d427b8251.txt": "5ee4aa65a6119f97dc5efe1cb84d720132977f726c48b82cca339a87c395ae54"
+  },
+  "revision": "4a7b52c57100b34ddb4381da85abe32cd30e09bfb166e7834dc51a53853145c1"
+}
